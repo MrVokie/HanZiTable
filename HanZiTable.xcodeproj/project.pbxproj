@@ -73,7 +73,7 @@
 		A0EE02BB2356FA6D00D476E4 /* HanZiTable */ = {
 			isa = PBXGroup;
 			children = (
-				A0EE02DD2356FB3300D476E4 /* 核心排序文件 */,
+				A0EE02DD2356FB3300D476E4 /* Core */,
 				A0EE02BC2356FA6D00D476E4 /* AppDelegate.h */,
 				A0EE02BD2356FA6D00D476E4 /* AppDelegate.m */,
 				A0EE02BF2356FA6D00D476E4 /* SceneDelegate.h */,
@@ -89,7 +89,7 @@
 			path = HanZiTable;
 			sourceTree = "<group>";
 		};
-		A0EE02DD2356FB3300D476E4 /* 核心排序文件 */ = {
+		A0EE02DD2356FB3300D476E4 /* Core */ = {
 			isa = PBXGroup;
 			children = (
 				A0EE02DE2356FB3300D476E4 /* pinyin.h */,
@@ -101,8 +101,8 @@
 				A0EE02E82356FBA600D476E4 /* PYTableViewIndexModel.h */,
 				A0EE02E72356FBA600D476E4 /* PYTableViewIndexModel.m */,
 			);
-			name = "核心排序文件";
-			path = "HanZiTable/核心排序文件";
+			name = Core;
+			path = HanZiTable/Core;
 			sourceTree = SOURCE_ROOT;
 		};
 /* End PBXGroup section */
